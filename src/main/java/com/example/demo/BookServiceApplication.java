@@ -1,13 +1,13 @@
-package com.example.kosta;
+package com.example.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class KostaApplication {
+public class BookServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(KostaApplication.class, args);
+		SpringApplication.run(BookServiceApplication.class, args);
 	}
 
 }
